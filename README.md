@@ -1,4 +1,4 @@
-# ✈ SkyWay — Flight Management Web App
+# ✈ SkyWay — Flight Web App
 
 A production-grade flight booking platform built with Next.js 14, Supabase, and Zustand. Features real-time seat selection, full booking management, reschedule/cancel flows, and PWA support.
 
